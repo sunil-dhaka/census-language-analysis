@@ -1,37 +1,37 @@
-state/ut,literacy-group,percentage
-00,Matric/Secondary but below graduate,0.41
-01,Matric/Secondary but below graduate,0.43
-02,Matric/Secondary but below graduate,0.52
-03,Matric/Secondary but below graduate,0.53
-04,Graduate and above,0.42
-05,Matric/Secondary but below graduate,0.38
-06,Matric/Secondary but below graduate,0.44
-07,Graduate and above,0.49
-08,Matric/Secondary but below graduate,0.39
-09,Matric/Secondary but below graduate,0.38
-10,Matric/Secondary but below graduate,0.33
-11,Matric/Secondary but below graduate,0.32
-12,Matric/Secondary but below graduate,0.3
-13,Matric/Secondary but below graduate,0.31
-14,Matric/Secondary but below graduate,0.39
-15,Matric/Secondary but below graduate,0.36
-16,Matric/Secondary but below graduate,0.35
-17,Matric/Secondary but below graduate,0.35
-18,Matric/Secondary but below graduate,0.36
-19,Graduate and above,0.43
-20,Matric/Secondary but below graduate,0.34
-21,Matric/Secondary but below graduate,0.42
-22,Matric/Secondary but below graduate,0.31
-23,Matric/Secondary but below graduate,0.36
-24,Matric/Secondary but below graduate,0.43
-25,Matric/Secondary but below graduate,0.5
-26,Matric/Secondary but below graduate,0.3
-27,Matric/Secondary but below graduate,0.41
-28,Matric/Secondary but below graduate,0.41
-29,Matric/Secondary but below graduate,0.4
-30,Matric/Secondary but below graduate,0.41
-31,Matric/Secondary but below graduate,0.49
-32,Matric/Secondary but below graduate,0.47
-33,Matric/Secondary but below graduate,0.4
-34,Graduate and above,0.42
-35,Matric/Secondary but below graduate,0.43
+state/ut,age-group,percentage
+INDIA,Graduate and above,32.43
+JAMMU & KASHMIR,Graduate and above,67.39
+HIMACHAL PRADESH,Graduate and above,15.25
+PUNJAB,Graduate and above,76.65
+CHANDIGARH,Graduate and above,69.47
+UTTARAKHAND,Graduate and above,7.24
+HARYANA,Graduate and above,18.04
+NCT OF DELHI,Graduate and above,23.91
+RAJASTHAN,Graduate and above,7.96
+UTTAR PRADESH,Graduate and above,6.65
+BIHAR,Graduate and above,8.56
+SIKKIM,Graduate and above,77.33
+ARUNACHAL PRADESH,Graduate and above,71.54
+NAGALAND,Graduate and above,70.3
+MANIPUR,Graduate and above,64.66
+MIZORAM,Graduate and above,24.92
+TRIPURA,Graduate and above,33.81
+MEGHALAYA,Graduate and above,46.93
+ASSAM,Graduate and above,62.47
+WEST BENGAL,Graduate and above,24.47
+JHARKHAND,Graduate and above,20.09
+ODISHA,Graduate and above,66.74
+CHHATTISGARH,Graduate and above,10.92
+MADHYA PRADESH,Graduate and above,11.19
+GUJARAT,Graduate and above,68.83
+DAMAN & DIU,Graduate and above,54.84
+DADRA & NAGAR HAVELI,Graduate and above,51.93
+MAHARASHTRA,Graduate and above,64.8
+ANDHRA PRADESH,Graduate and above,37.07
+KARNATAKA,Graduate and above,48.94
+GOA,Graduate and above,80.53
+LAKSHADWEEP,Graduate and above,67.29
+KERALA,Graduate and above,38.7
+TAMIL NADU,Graduate and above,14.99
+PUDUCHERRY,Graduate and above,21.22
+ANDAMAN & NICOBAR ISLANDS,Graduate and above,55.2
