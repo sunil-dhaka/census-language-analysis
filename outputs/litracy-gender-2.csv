@@ -1,37 +1,37 @@
 state/ut,litracy-group-male,ratio-of-2-male,litracy-group-female,ratio-of-2-female
-INDIA,Graduate and above,0.35539018329809313,Graduate and above,0.37611264928294924
-JAMMU & KASHMIR,Middle but below matric/secondary,0.5941510881868216,Middle but below matric/secondary,0.5832258480588159
-HIMACHAL PRADESH,Graduate and above,0.21960949817649025,Graduate and above,0.24027219933996777
-PUNJAB,Middle but below matric/secondary,0.3374526276384996,Middle but below matric/secondary,0.3378523424815159
-CHANDIGARH,Matric/Secondary but below graduate,0.32962804617357844,Matric/Secondary but below graduate,0.3316107634905178
-UTTARAKHAND,Graduate and above,0.34373169188467156,Graduate and above,0.35493948068906633
-HARYANA,Graduate and above,0.4422987117442821,Graduate and above,0.47286239015544845
-NCT OF DELHI,Graduate and above,0.6345213324201222,Graduate and above,0.6322528055311849
-RAJASTHAN,Graduate and above,0.2923335539847391,Graduate and above,0.36297471431422623
-UTTAR PRADESH,Graduate and above,0.4031030686385274,Graduate and above,0.43318717000310586
-BIHAR,Graduate and above,0.27796879917045414,Graduate and above,0.3118093922651934
-SIKKIM,Primary but below middle,0.47196157283288653,Primary but below middle,0.4476264238623269
-ARUNACHAL PRADESH,Literate but below primary,0.5018358336712169,Literate but below primary,0.5131648028560928
-NAGALAND,Primary but below middle,0.49207875511568183,Primary but below middle,0.5182723836699957
-MANIPUR,Middle but below matric/secondary,0.3806051869756181,Middle but below matric/secondary,0.36767312763777116
-MIZORAM,Graduate and above,0.6149964439326718,Graduate and above,0.6751269035532995
-TRIPURA,Matric/Secondary but below graduate,0.40048323874861447,Matric/Secondary but below graduate,0.3560515709820694
-MEGHALAYA,Matric/Secondary but below graduate,0.40008559893704004,Matric/Secondary but below graduate,0.45214030471121214
-ASSAM,Primary but below middle,0.40571175387761055,Primary but below middle,0.3895619994801803
-WEST BENGAL,Graduate and above,0.35289005990598554,Graduate and above,0.35655931883731307
-JHARKHAND,Graduate and above,0.35365945171677843,Graduate and above,0.3992796641274156
-ODISHA,Middle but below matric/secondary,0.29431033034506954,Middle but below matric/secondary,0.2698910591701719
-CHHATTISGARH,Graduate and above,0.22891723475566736,Graduate and above,0.29532036956739266
-MADHYA PRADESH,Graduate and above,0.3929288630104328,Graduate and above,0.429425395267459
-GUJARAT,Middle but below matric/secondary,0.5447744608019447,Middle but below matric/secondary,0.5372768046035373
-DAMAN & DIU,Matric/Secondary but below graduate,0.41668316940612143,Matric/Secondary but below graduate,0.5401463589376183
-DADRA & NAGAR HAVELI,Literate but below primary,0.5088228085940691,Literate but below primary,0.5465231185312321
-MAHARASHTRA,Middle but below matric/secondary,0.5115785001955828,Middle but below matric/secondary,0.4944964460086528
-ANDHRA PRADESH,Graduate and above,0.36823539581051923,Graduate and above,0.3761791270410564
-KARNATAKA,Matric/Secondary but below graduate,0.3257123124217423,Matric/Secondary but below graduate,0.3265689464455364
-GOA,Literate but below primary,0.4759804713219126,Literate but below primary,0.4921540479667351
-LAKSHADWEEP,Matric/Secondary but below graduate,0.2362537764350453,Matric/Secondary but below graduate,0.23675349991139466
-KERALA,Graduate and above,0.37812285651654326,Graduate and above,0.3882791601338586
-TAMIL NADU,Graduate and above,0.5977158003194264,Graduate and above,0.6045411392405063
-PUDUCHERRY,Graduate and above,0.6357036813366549,Graduate and above,0.6372807648648217
-ANDAMAN & NICOBAR ISLANDS,Primary but below middle,0.6501845991561181,Primary but below middle,0.630004918839154
+0,Graduate and above,0.35539018329809313,Graduate and above,0.37611264928294924
+1,Middle but below matric/secondary,0.5941510881868216,Middle but below matric/secondary,0.5832258480588159
+2,Graduate and above,0.21960949817649025,Graduate and above,0.24027219933996777
+3,Middle but below matric/secondary,0.3374526276384996,Middle but below matric/secondary,0.3378523424815159
+4,Matric/Secondary but below graduate,0.32962804617357844,Matric/Secondary but below graduate,0.3316107634905178
+5,Graduate and above,0.34373169188467156,Graduate and above,0.35493948068906633
+6,Graduate and above,0.4422987117442821,Graduate and above,0.47286239015544845
+7,Graduate and above,0.6345213324201222,Graduate and above,0.6322528055311849
+8,Graduate and above,0.2923335539847391,Graduate and above,0.36297471431422623
+9,Graduate and above,0.4031030686385274,Graduate and above,0.43318717000310586
+10,Graduate and above,0.27796879917045414,Graduate and above,0.3118093922651934
+11,Primary but below middle,0.47196157283288653,Primary but below middle,0.4476264238623269
+12,Literate but below primary,0.5018358336712169,Literate but below primary,0.5131648028560928
+13,Primary but below middle,0.49207875511568183,Primary but below middle,0.5182723836699957
+14,Middle but below matric/secondary,0.3806051869756181,Middle but below matric/secondary,0.36767312763777116
+15,Graduate and above,0.6149964439326718,Graduate and above,0.6751269035532995
+16,Matric/Secondary but below graduate,0.40048323874861447,Matric/Secondary but below graduate,0.3560515709820694
+17,Matric/Secondary but below graduate,0.40008559893704004,Matric/Secondary but below graduate,0.45214030471121214
+18,Primary but below middle,0.40571175387761055,Primary but below middle,0.3895619994801803
+19,Graduate and above,0.35289005990598554,Graduate and above,0.35655931883731307
+20,Graduate and above,0.35365945171677843,Graduate and above,0.3992796641274156
+21,Middle but below matric/secondary,0.29431033034506954,Middle but below matric/secondary,0.2698910591701719
+22,Graduate and above,0.22891723475566736,Graduate and above,0.29532036956739266
+23,Graduate and above,0.3929288630104328,Graduate and above,0.429425395267459
+24,Middle but below matric/secondary,0.5447744608019447,Middle but below matric/secondary,0.5372768046035373
+25,Matric/Secondary but below graduate,0.41668316940612143,Matric/Secondary but below graduate,0.5401463589376183
+26,Literate but below primary,0.5088228085940691,Literate but below primary,0.5465231185312321
+27,Middle but below matric/secondary,0.5115785001955828,Middle but below matric/secondary,0.4944964460086528
+28,Graduate and above,0.36823539581051923,Graduate and above,0.3761791270410564
+29,Matric/Secondary but below graduate,0.3257123124217423,Matric/Secondary but below graduate,0.3265689464455364
+30,Literate but below primary,0.4759804713219126,Literate but below primary,0.4921540479667351
+31,Matric/Secondary but below graduate,0.2362537764350453,Matric/Secondary but below graduate,0.23675349991139466
+32,Graduate and above,0.37812285651654326,Graduate and above,0.3882791601338586
+33,Graduate and above,0.5977158003194264,Graduate and above,0.6045411392405063
+34,Graduate and above,0.6357036813366549,Graduate and above,0.6372807648648217
+35,Primary but below middle,0.6501845991561181,Primary but below middle,0.630004918839154
